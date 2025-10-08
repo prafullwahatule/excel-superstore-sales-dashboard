@@ -69,5 +69,5 @@ It is designed to help business users quickly identify trends, track KPIs, and m
 
 # ✍️ Author
 
-## 👤 Prafull Wahatule
-## 🔗 [GitHub](https://github.com/prafullwahatule)
+### 👤 Prafull Wahatule
+### 🔗 [GitHub](https://github.com/prafullwahatule)
