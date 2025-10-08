@@ -41,7 +41,8 @@ It is designed to help business users quickly identify trends, track KPIs, and m
 
 ## 📸 Dashboard Preview
 (Insert screenshot here from `docs/` folder)
-<img width="1920" height="1080" alt="Screenshot 2025-10-08 193329" src="https://github.com/user-attachments/assets/a00626b7-f4df-4d20-99ee-3a978b15a17d" />
+<img width="1920" height="1080" alt="Screenshot" src="https://github.com/user-attachments/assets/75d2fbee-931c-45a2-ad85-9fe9f312524e" />
+
 
 <img width="1575" height="847" alt="Screenshot 2025-10-08 194722" src="https://github.com/user-attachments/assets/ea45e146-03b5-4fec-8322-45b6f1493cf6" />
 
