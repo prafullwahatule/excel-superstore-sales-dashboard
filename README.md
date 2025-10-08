@@ -53,7 +53,7 @@ It is designed to help business users quickly identify trends, track KPIs, and m
 
 3. Interact with the slicers & charts to explore insights.
 
-📈 Key Insights
+## 📈 Key Insights
 
 ✅ West Region → highest sales contribution
 
@@ -63,7 +63,7 @@ It is designed to help business users quickly identify trends, track KPIs, and m
 
 ✅ Top Customer: Sean Miller contributed maximum sales
 
-✍️ Author
+# ✍️ Author
 
-👤 Prafull Wahatule
-🔗 GitHub
+## 👤 Prafull Wahatule
+## 🔗 GitHub
