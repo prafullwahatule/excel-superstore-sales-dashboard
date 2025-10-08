@@ -16,7 +16,7 @@ It is designed to help business users quickly identify trends, track KPIs, and m
 - 📊 Clean and interactive Excel dashboard with slicers & filters  
 
 ---
-
+```
 ## 📂 Folder Structure
 📦 Sales Dashboard
 ┣ 📂 data
@@ -28,7 +28,7 @@ It is designed to help business users quickly identify trends, track KPIs, and m
 ┣ 📂 docs
 ┃ ┗ Project screenshots
 ┗ README.md
-
+```
 
 ---
 
