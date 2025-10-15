@@ -6,7 +6,6 @@ The dashboard provides insights into **sales, profit, and order performance** ac
 
 It is designed to help business users quickly identify trends, track KPIs, and make data-driven decisions.
 
----
 
 ## 🎯 Key Features
 - 📅 Sales trend analysis (2016–2019)  
@@ -15,7 +14,6 @@ It is designed to help business users quickly identify trends, track KPIs, and m
 - 🔍 Region & Category-wise performance analysis  
 - 📊 Clean and interactive Excel dashboard with slicers & filters  
 
----
 ```
 ## 📂 Folder Structure
 📦 Sales Dashboard
@@ -30,14 +28,12 @@ It is designed to help business users quickly identify trends, track KPIs, and m
 ┗ README.md
 ```
 
----
 
 ## 🛠️ Tools Used
 - **Microsoft Excel** – Data Cleaning, Transformation, and Dashboard  
 - **Basic Formulas** – `SUM`, `Profit Margin %`, Shipping Days calculation  
 - **Data Visualization** – Charts, Slicers, Pivot Tables  
 
----
 
 ## 📸 Dashboard Preview
 (Insert screenshot here from `docs/` folder)
@@ -46,13 +42,12 @@ It is designed to help business users quickly identify trends, track KPIs, and m
 
 <img width="1575" height="847" alt="Screenshot 2025-10-08 194722" src="https://github.com/user-attachments/assets/ea45e146-03b5-4fec-8322-45b6f1493cf6" />
 
----
 
 ## 🚀 How to Use
 1. Download or clone this repository  
    ```bash
    git clone https://github.com/prafullwahatule/excel-superstore-sales-dashboard.git
-   
+   ```
 2. Open the Excel file inside excel/Dashboard/.
 
 3. Interact with the slicers & charts to explore insights.
